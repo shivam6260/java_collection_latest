@@ -2,7 +2,15 @@ package VeryImportantNotes;
 
 public class Notes {
 	public static void main(String[] args) {
+		// https://company-wise-leetcode-farneet.netlify.app/
+
 		// https://leetcode.com/tag/string/discuss/1170715/Java-or-Data-Structure-Mostly-used-Syntax
+
+		/*
+		What is subsequence and subString?
+    	Subsequence or Subsets: a sequence that appears in the same relative order, but not necessarily contiguous.
+    	SubString or Subarray: a contiguous sequence of symbols that appears in the same relative order as the original string.
+		 */
 		
 		
 		/*
@@ -101,7 +109,7 @@ toString() // converting back to string
 5. size -> int size(); // TC: O(1)
 6. check for Empty -> boolean isEmpty(); // TC: O(1)
 7. remove all set values -> clear(); // TC: O(n)
-		 */
+ */
 		
 	}
 }
